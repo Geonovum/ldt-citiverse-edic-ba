@@ -2,6 +2,7 @@
     The Archimate models of the <b>reference architecture for LDT's</b> can be found <a href="https://geonovum.github.io/ldt-citiverse-edic-ra/archimate/" target="_blank_">here.</a>
 </aside>
 
+
 <aside class="note">
     The Archimate models of the <b>business architecture</b> can be found <a href="https://geonovum.github.io/ldt-citiverse-edic-ba/archimate/html/index.html" target="_blank_">here.</a>
 </aside>
