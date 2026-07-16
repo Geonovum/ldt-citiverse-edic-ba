@@ -51,4 +51,4 @@ Capabilities represent the "link" between strategic goals and the operational pl
 
 ### Organizational Competencies
 *   **Strategic Advisory:** Helping cities navigate EU funding and digital transformation roadmaps.
-*   **Validation & Benchmarking:** Establishing frameworks to test the quality and reliability of LDT simulations.
+*   **Validation & Benchmarking:** Establishing frameworks to test the quality and reliability of LDT componenents and approaches.
