@@ -27,11 +27,11 @@ These values form the normative foundation of the entire architecture, both of t
 *	**Self-Sustainability Models:** Ensuring the EDIC can sustain itself over time
 
 __eGovERA Capabilities:__
-The EDIC must help establish the eGovERA capabilities for its members:
-- Digital Twin
-- Knowledge Management
-- Data Management
-- Artificial Intelligence
+The EDIC must help establish the eGovERA capabilities and become a go-to organisation for its members on:
+* Digital Twin
+* Knowledge Management
+* Data Management
+* Artificial Intelligence
 
 ## Guiding Principles 
 *   **Interoperability by Design:** All services must combat fragmentation through open standards (e.g., OGC, MIMs).
