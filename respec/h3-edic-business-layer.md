@@ -11,9 +11,25 @@ To reach the EDICs' goals, these are the value propositions offered to the Europ
 *   **Capacity Building & Training:** Modular programs addressing the skill gaps in cities regarding the adoption and use of Digital Twins.
 *   **Operational Guidance:** Support for procurement, legal templates, and governance models.
 *   **Interoperability Certification:** Auditing and accrediting LDT solutions to ensure cross-border compatibility.
-*   **EU LDT Toolbox:** A common repository of open-standard tools for LDT implementation, compliant to the reference architecture.
+*   **EDIC Marketplace:** A common repository of open-standard tools for LDT implementation, compliant to the reference architecture.
 
 ## Business processes
+### Intake of new Product or service
+Test new offers against the EDICs strategic goals, core values etc. and test for quality and reliability.
+###	Collect feedback on products & Services
+Establish a feedbackloop on products & services of the EDIC.
+### Improve products & Services
+Based on the collected feedback, improve products & services in order to better serve future users. This includes improvement of the Intake-process if applicable.
+## Technology Assessment and Roadmap
+Reassess the Technologies, including new Technologies to be added, and value them on the maturity axis:
+*   Scale Now (Mature)
+*   Experiment & Validate (High Potential)
+*   Monitor Closely (Emerging)
+and the fit-for-purpose axis:
+*   Strong fit
+*	Conditional fit
+*	Limited fit
+*	Not currently fit
 
 ## Governance and Roles within the EDIC
 This chapter defines the organizational structure of the EDIC.
