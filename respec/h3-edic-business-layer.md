@@ -20,16 +20,18 @@ Test new offers against the EDICs strategic goals, core values etc. and test for
 Establish a feedbackloop on products & services of the EDIC.
 ### Improve products & Services
 Based on the collected feedback, improve products & services in order to better serve future users. This includes improvement of the Intake-process if applicable.
-## Technology Assessment and Roadmap
+### Technology Assessment and Roadmap
 Reassess the Technologies, including new Technologies to be added, and value them on the maturity axis:
 *   Scale Now (Mature)
 *   Experiment & Validate (High Potential)
 *   Monitor Closely (Emerging)
+
 and the fit-for-purpose axis:
 *   Strong fit
 *	Conditional fit
 *	Limited fit
 *	Not currently fit
+### Execute Roadmap
 
 ## Governance and Roles within the EDIC
 This chapter defines the organizational structure of the EDIC.
