@@ -26,7 +26,7 @@ These values form the normative foundation of the entire architecture, both of t
 *   **Digital Sovereignty:** Promoting European control over data and AI in urban management.
 *	**Self-Sustainability Models:** Ensuring the EDIC can sustain itself over time
 
-__eGovERA Capabilities:__
+**eGovERA Capabilities:**
 The EDIC must help establish the eGovERA capabilities and become a go-to organisation for its members on:
 * Digital Twin
 * Knowledge Management
