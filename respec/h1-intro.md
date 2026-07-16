@@ -14,11 +14,15 @@ This Business Architecture (BA) describes the fundamental organization of the **
 
 <img src="./respec/media/architecture-overview.png" alt="Architecture Overview" width="800">
 
-## 1.1 Purpose
+## Purpose
 The primary objective of this **Target Business Architecture** is to describe how the EDIC operates to achieve its goals, addressing stakeholder concerns such as digital fragmentation and urban complexity.
 
-## 1.2 Architectural Principles
+## Architectural Principles
 Following the "rules of the art," this BA adheres to:
 *   **Coherence:** Ensuring alignment between business drivers, processes, and the technological infrastructure.
 *   **Holistic Approach:** Integrating people, processes, and technology rather than treating IT as an isolated silo.
 *   **External Orientation:** Designing the architecture based on the value delivered to customers (primarily municipalities).
+
+## Scope
+This architecture describes the **EDIC** as an organization. It does not describe the architecture for digital twins. 
+Core values from which both the EDIC and cities deploying a digital twin will operate, however, will be overlapping.
