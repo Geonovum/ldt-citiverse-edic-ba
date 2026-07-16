@@ -15,7 +15,7 @@ To reach the EDICs' goals, these are the value propositions offered to the Europ
 
 ## Business processes
 ### Intake of new Product or service
-Test new offers against the EDICs strategic goals, core values etc. and test for quality and reliability.
+Test new offers against the EDICs strategic goals, core values and products & services requirements ([link to chapter 4]).
 ###	Collect feedback on products & Services
 Establish a feedbackloop on products & services of the EDIC.
 ### Improve products & Services
