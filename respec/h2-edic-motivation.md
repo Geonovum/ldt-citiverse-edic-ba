@@ -25,6 +25,7 @@ These values form the normative foundation of the entire architecture, both of t
 *   **Common Infrastructure:** Connecting local digital twins across Europe to form the foundation of the EU CitiVERSE.
 *   **Digital Sovereignty:** Promoting European control over data and AI in urban management.
 *	**Self-Sustainability Models:** Ensuring the EDIC can sustain itself over time
+*	**Capacity building:** Enabling and supporting cities and regions to succesfully adopt, use and scale Digital Twins and immersive Technologies
 
 **eGovERA Capabilities:**
 The EDIC must help establish the eGovERA capabilities and become a go-to organisation for its members on:
