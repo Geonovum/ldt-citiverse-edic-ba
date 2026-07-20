@@ -23,11 +23,9 @@ The EDIC should help establish and comply to the values of the Digital Decade 20
 These values form the normative foundation of the entire architecture, both of the EDIC and the reference architecture for LDTs.
 
 ### Mission, Goals and Objectives
-**
-BUILD / EDIC is about creating the infrastructure to operationalize products, services and facilities to enable cities and regions to build their own DT’s.
-**
+**BUILD / EDIC is about creating the infrastructure to operationalize products, services and facilities to enable cities and regions to build their own DT’s.**
 
-<img src="./respec/media/EDIC.png" alt="The EDIC" width="800">
+<img src="./respec/media/EDIC.png" alt="The EDIC" width="400">
 
 *   **Common Infrastructure:** Create a common European infrastructure of interoperable dataplatforms and services for Networked Local Digital Twins, with a special focus on Geo Data, AI and Virtual Worlds, with the ambition of building the European “Citiverse”.
 *	**Capacity building:** Enhance Capacity building through a common set of products, services and facilities, validated from practice, that harmonize implementation by member cities and regions.
