@@ -23,7 +23,7 @@ The EDIC should help establish and comply to the values of the Digital Decade 20
 These values form the normative foundation of the entire architecture, both of the EDIC and the reference architecture for LDTs.
 
 ### Mission, Goals and Objectives
-**BUILD / EDIC is about creating the infrastructure to operationalize products, services and facilities to enable cities and regions to build their own DT’s.**
+**The LDT CitiVERSE EDIC is about creating the infrastructure to operationalize products, services and facilities to enable cities and regions to build their own DT’s.**
 
 <img src="./respec/media/EDIC.png" alt="The EDIC" width="400">
 

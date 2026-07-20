@@ -7,7 +7,7 @@ The platform must be:
 - Infrastructure-agnostic
 - Interoperable
 - Substitutable
-- Based on standard data formats
+- Based on standards (data, calculations, visualisations)
 - Cross-platform
 
 ## Deployment Requirements

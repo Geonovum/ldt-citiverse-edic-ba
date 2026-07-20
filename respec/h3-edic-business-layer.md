@@ -40,7 +40,10 @@ This chapter defines the organizational structure of the EDIC.
 The EDIC is a legal structure under the **Digital Decade Policy Programme 2030**, enabling Member States to pool resources.
 
 ### Key Roles
+*	**Assembly:**	Defining 
 *   **EDIC Director & Executive Management:** Leading the mission from the HQ in Valencia.
 *   **National Nodes:** Anchors within Member States (e.g., Cerema in France) providing infrastructure and national coordination. This is where the execution power in supporting the cities is.
 *   **Strategy Working Group:** Providing strategic direction and identifying community needs.
 *	**Sandbox Alliance:** Providing infrastructure and know-how to validate and test the quality and reliability of LDT componenents.
+
+<img src="./respec/media/EDIC Ecosystem roles.png" alt="The EDIC Ecosystem" width="600">
