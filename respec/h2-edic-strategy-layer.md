@@ -56,6 +56,8 @@ Capabilities represent the "link" between strategic goals and the operational pl
 *   **Data Governance & Stewardship:** Managing trusted data sharing through Data Spaces (e.g., DS4SSCC, SIMPL) .
 *   **Interoperability Management:** Profiling and promoting technical and procedural standards to reduce fragmentation.
 *	**Member maturity growth:** Helping members to enter the Digital Twin and CitiVERSE era and get self-supporting on that matter.
+*	**Knowledge hub:**	Central place for documentation and knowledge, supporting adoption and reuse.
+*	**Opens source community management:**	Becoming 'the owner' of open-source components, the EDIC must also maintain this code.
 
 ### Organizational Competencies
 *   **Strategic Advisory:** Helping cities navigate EU funding and digital transformation roadmaps.
